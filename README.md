@@ -6,11 +6,12 @@
 <p>🔎 -Respondo perguntas sobre ** JAVA, Springboot, javaScript, HTML5, CSS3, SQL, NODE, ReactJS, React-Native ** </p><hr>
 <H2> 🛠️ Tecnologias que domino </h2>
 
-<img aling="center" alt"HTML5" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt"HTML5" 
+     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt"HTML5"
-     scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt"HTML5"
-     scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt"HTML5"
      scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
      
