@@ -5,12 +5,12 @@
 <p>📚 -Veja alguns dos meus projetos [🚨 *Protifolio em construção* 🚨] </p>
 <p>🔎 -Respondo perguntas sobre ** JAVA, Springboot, javaScript, HTML5, CSS3, SQL, NODE, ReactJS, React-Native ** </p><hr>
 <H2> 🛠️ Tecnologias que domino </h2>
-
+<div displa:flex>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-     
+</Div>    
 
 
 <!--
