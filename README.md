@@ -4,7 +4,15 @@
 <p>💼 -Atualmente trabalalho como programador freelancer de projetos web </p>
 <p>📚 -Veja alguns dos meus projetos [🚨 *Protifolio em construção* 🚨] </p>
 <p>🔎 -Respondo perguntas sobre ** JAVA, Springboot, javaScript, HTML5, CSS3, SQL, NODE, ReactJS, React-Native ** </p><hr>
-## 🛠️ &nbsp;Tecnologias que domino
+<H2> 🛠️ Tecnologias que domino </h2>
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit
+
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 
 <!--
 **wellington-reis/wellington-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
