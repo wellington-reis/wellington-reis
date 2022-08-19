@@ -1,6 +1,10 @@
 <h1><strong>Olá seja bem vindo ao meu Git</strong></h1><hr>
 <h2>Salve, Salve, Salve! Eu Sou Wellington Reis <img scr="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width= "30px"></h2><br>
-
+<h3>🔥 Programador fullStack Jr.</h3>
+<p>💼 Atualmente trabalalho como freelancer de projetos web</p>
+<p>💼 Atualmente trabalalho como freelancer de projetos web</p>
+<p>💼 Atualmente trabalalho como freelancer de projetos web</p>
+<p>💼 Atualmente trabalalho como freelancer de projetos web</p>
 
 <!--
 **wellington-reis/wellington-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
