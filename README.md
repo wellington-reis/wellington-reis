@@ -5,11 +5,13 @@
 <p>📚 -Veja alguns dos meus projetos [🚨 *Protifolio em construção* 🚨] </p>
 <p>🔎 -Respondo perguntas sobre ** JAVA, Springboot, javaScript, HTML5, CSS3, SQL, NODE, ReactJS, React-Native ** </p><hr>
 <H2> 🛠️ Tecnologias que domino </h2>
-<div displa:flex>
+<div displa:flex border= 5px solid black>
+<h3>*Front-End*</h3>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img scr="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </Div>    
 
 
