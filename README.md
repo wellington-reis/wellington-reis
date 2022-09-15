@@ -16,7 +16,7 @@
                     <img style="border-radius: 8px ;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrep">
                 </div>
             </div>
-            <div class="title" style="text-align: center; text-decoration: underline; "><h3>*FRONT- END*</h3></div>
+            <div class="title" style="text-align: center; text-decoration: underline; "><h3>*BACK- END*</h3></div>
          <div class="containerImg" style="display: flex; justify-content: center; margin-bottom: 10px;" >
                    <img style="border-radius: 8px ;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"alt="NodeJs">
                     <img style="border-radius: 8px ;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
